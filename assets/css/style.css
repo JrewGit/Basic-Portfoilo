@@ -9,6 +9,11 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+header {
+    background-color: white;
+    border-bottom: 3px solid #777777;
+}
+
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -33,13 +38,13 @@ a {
 }
 
 a:hover {
-    color: black; 
+    color: #4aaaa5; 
 }
 
 section {
     background-color: white;
     width: 960px;
-    height: 400px;
+    height: 310px;
     margin: 5% 20% 10% 20%;
 }
 
@@ -60,14 +65,17 @@ img {
     float: left;
 }
 
-p {
+.bio p {
     color: #777777;
     padding: 10px;
+    line-height: 30px;
+    margin-left: 210px;
 }
 
 footer {
     background-color: grey;
     padding: 20px;
+    border-top: 10px solid #4aaaa5;
 }
 
 footer p {
