@@ -41,11 +41,11 @@ a:hover {
     color: #4aaaa5; 
 }
 
-section {
+.aboutPage{
     background-color: white;
     width: 960px;
     height: 310px;
-    margin: 5% 20% 10% 20%;
+    margin: 5% 20% 10% 18%;
 }
 
 .aboutMe {
@@ -82,3 +82,6 @@ footer p {
     color: white;
     text-align: center;
 }
+
+
+
