@@ -1,0 +1,13 @@
+.portfolioSection{
+    background-color: white;
+    width: 960px;
+    height: 310px;
+    margin: 8% 20% 10% 18%;
+}
+
+.portfolioFooter {
+    background-color: grey;
+    padding: 20px;
+    margin-top: 90px;
+    border-top: 10px solid #4aaaa5;
+}

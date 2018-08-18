@@ -24,3 +24,10 @@ textarea {
 .submitMessage {
     margin: 5px 0;
 }
+
+.contactFooter {
+    background-color: grey;
+    padding: 20px;
+    margin-top: 90px;
+    border-top: 10px solid #4aaaa5;
+}
