@@ -1,13 +1,42 @@
-.portfolioSection{
+.portfolioSection {
     background-color: white;
-    width: 960px;
-    height: 310px;
-    margin: 8% 20% 10% 18%;
+    width: 800px;
+    height: 700px;
+    margin: 5% 20% 5% 24%;
 }
 
+
 .portfolioFooter {
-    background-color: grey;
+    background-color: #666666;
     padding: 20px;
     margin-top: 90px;
     border-top: 10px solid #4aaaa5;
+}
+
+img {
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.imgBanner {
+    margin: 20px;
+    width: 150px;
+    height: 40px;
+    background-color: #4aaaa5;
+    float: left;
+    position: absolute;
+    top: 100px;
+}
+
+.nextLine {
+    clear: left;
+}
+
+.box {
+    position: relative;
+}
+
+.box1 {
+    position: relative;
 }
